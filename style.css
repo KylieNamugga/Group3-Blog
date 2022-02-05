@@ -1,0 +1,50 @@
+body{
+    background-color: antiquewhite;  
+}
+.container{
+    margin-top: 50px;
+}
+.card-1{
+    font-style: normal;
+    font-size: medium;
+    /* font-weight: lighter; */
+}
+.card-2{
+    margin-top: 10px;
+    font-style: normal;
+    font-size: medium;
+    /* font-weight: lighter; */
+}
+.card-title{
+    color: brown;
+}
+.card-text{
+    color: rgb(235, 135, 5);
+}
+a.hover{
+    color: brown;
+}
+.nav-link{
+    color: rgb(167, 11, 11)!important;
+    font-style: bold;
+}
+.dropdown-item{
+    color: rgb(235, 135, 5);
+}
+.col-6 h2{
+    margin-left: 23px;
+    color: brown;
+    font-weight: 6px;
+    text-decoration: underline;
+    font-weight: lighter;
+}
+.col-6 p{
+    color: rgb(235, 135, 5);
+
+}
+#tweets{
+    margin-top: 30px;
+}
+.btn btn-outline-success{
+    color: blue;
+}
