@@ -1,5 +1,5 @@
 body{
-    background-color: antiquewhite;  
+    background-color: ivory;  
 }
 .container{
     margin-top: 50px;
@@ -7,13 +7,11 @@ body{
 .card-1{
     font-style: normal;
     font-size: medium;
-    /* font-weight: lighter; */
 }
 .card-2{
     margin-top: 10px;
     font-style: normal;
     font-size: medium;
-    /* font-weight: lighter; */
 }
 .card-title{
     color: brown;
@@ -26,17 +24,17 @@ a.hover{
 }
 .nav-link{
     color: rgb(167, 11, 11)!important;
-    font-style: bold;
 }
 .dropdown-item{
     color: rgb(235, 135, 5);
 }
-.col-6 h2{
+.col-6 h4{
     margin-left: 23px;
     color: brown;
-    font-weight: 6px;
+    font-weight: 20px;
     text-decoration: underline;
     font-weight: lighter;
+    font-style: normal;
 }
 .col-6 p{
     color: rgb(235, 135, 5);
