@@ -1,1 +1,1 @@
-# Group6-WebDevelopment-Blog
+# Group3-Blog
