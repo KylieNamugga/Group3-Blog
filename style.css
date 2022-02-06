@@ -1,17 +1,14 @@
 body{
-    background-color: ivory;  
+    background-color: white;  
 }
 .container{
-    margin-top: 50px;
+    margin-top: 30px;
 }
-.card-1{
-    font-style: normal;
-    font-size: medium;
+#any{
+    margin-right: 50px;
 }
-.card-2{
+#mindsoul{
     margin-top: 10px;
-    font-style: normal;
-    font-size: medium;
 }
 .card-title{
     color: brown;
@@ -28,7 +25,7 @@ a.hover{
 .dropdown-item{
     color: rgb(235, 135, 5);
 }
-.col-6 h4{
+.col h4{
     margin-left: 23px;
     color: brown;
     font-weight: 20px;
@@ -36,7 +33,7 @@ a.hover{
     font-weight: lighter;
     font-style: normal;
 }
-.col-6 p{
+.col p{
     color: rgb(235, 135, 5);
 
 }
