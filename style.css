@@ -1,0 +1,61 @@
+body {
+  background-color: rgb(255, 231, 231);
+}
+.container {
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+#any {
+  margin-right: 50px;
+}
+#mindsoul {
+  margin-top: 10px;
+}
+.card-title {
+  color: brown;
+}
+.card-text {
+  color: rgb(235, 135, 5);
+}
+a.hover {
+  color: brown;
+}
+.nav-link {
+  color: rgb(167, 11, 11) !important;
+}
+.dropdown-item {
+  color: rgb(235, 135, 5);
+}
+.col h4 {
+  margin-left: 23px;
+  color: brown;
+  font-weight: 20px;
+  text-decoration: underline;
+  font-weight: lighter;
+  font-style: normal;
+}
+.col p {
+  color: rgb(0, 0, 0);
+}
+#tweets {
+  margin-top: 30px;
+}
+
+#tweets img {
+  border-radius: 9px;
+}
+
+.btn btn-outline-success {
+  color: blue;
+}
+
+.carousel-slide img {
+  height: 750px;
+}
+
+@media only screen and (max-width: 980px) {
+  .carousel-slide {
+    width: 100%;
+    margin-left: 0px;
+  }
+}
